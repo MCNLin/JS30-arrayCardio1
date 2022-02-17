@@ -6,7 +6,7 @@ Come join me on my journey of Wes Bos's 30 Day Vanilla JS Code Challenge! Where 
 
 ### Array Cardio 1
 ---- 
-In this challenge, I was given some test datasets and over some popular Array Methods using the data~
+In this challenge, I was given some test datasets and utilised popular Array Methods using the data provided~
 
 ----
 ### What I learned/refresher:
